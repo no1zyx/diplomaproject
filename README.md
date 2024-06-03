@@ -1,0 +1,2 @@
+# diplomaproject
+turnbased strategy game
